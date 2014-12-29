@@ -6,17 +6,27 @@ E200 プログラム マニュアル
 データの入出力を開始する
 
 [書式]
-OPEN"形式:[ファイル名]"[FOR OUTPUTまたはFOR INPUT]
+OPEN"形式:[ファイル名]"[FOR OUTPUT][FOR INPUT][FOR APPEND]
 
 [参照]
 CLOSE
 
 [説明]
-形式が COM の場合は SIO の入出力
-形式が CAS の場合はカセットテープの出力または入力。
+形式が COM の場合は SIO の入出力。
+G850 は COM1・PIO も指定できる。
+　COM  = 半二重通信
+　COM1 = 全二重通信
+　PIO  = 8ビット入出力指定
+
+形式が CAS の場合はカセットテープの入出力。
 FOR OUTPUT で出力、FOR INPUT で入力になる。
 ファイル名を指定した場合、FOR OUTPUT の場合はファイル名も含めて記録、
 FOR INPUT の場合はファイル名を検索して読み込む。
+
+E: の場合は RAM データファイルの入出力。G850 で有効。ファイル名を指定する。
+FOR OUTPUT で読込、FOR INPUT で書込、FOR APPEND で追加書込。
+
 形式が LPRT の場合はミニI/Oの入出力。
 
 すでに一つオープンされている場合に、更に OPEN しようとした場合は エラー86
+E: は2つまでオープンする事ができる。
