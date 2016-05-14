@@ -1,32 +1,32 @@
 OPEN
 OP.
-E200 �v���O���� �}�j���A��
+E200 プログラム マニュアル
 -----------------------------------------------------------
-[�@�\]
-�f�[�^�̓��o�͂��J�n����
+[機能]
+データの入出力を開始する
 
-[����]
-OPEN"�`��:[�t�@�C����]"[FOR OUTPUT][FOR INPUT][FOR APPEND]
+[書式]
+OPEN"形式:[ファイル名]"[FOR OUTPUT][FOR INPUT][FOR APPEND]
 
-[�Q��]
+[参照]
 CLOSE
 
-[����]
-�`���� COM �̏ꍇ�� SIO �̓��o�́B
-G850 �� COM1�EPIO ���w��ł���B
-�@COM  = ����d�ʐM
-�@COM1 = �S��d�ʐM
-�@PIO  = 8�r�b�g���o�͎w��
+[説明]
+形式が COM の場合は SIO の入出力。
+G850 は COM1・PIO も指定できる。
+　COM  = 半二重通信
+　COM1 = 全二重通信
+　PIO  = 8ビット入出力指定
 
-�`���� CAS �̏ꍇ�̓J�Z�b�g�e�[�v�̓��o�́B
-FOR OUTPUT �ŏo�́AFOR INPUT �œ��͂ɂȂ�B
-�t�@�C�������w�肵���ꍇ�AFOR OUTPUT �̏ꍇ�̓t�@�C�������܂߂ċL�^�A
-FOR INPUT �̏ꍇ�̓t�@�C�������������ēǂݍ��ށB
+形式が CAS の場合はカセットテープの入出力。
+FOR OUTPUT で出力、FOR INPUT で入力になる。
+ファイル名を指定した場合、FOR OUTPUT の場合はファイル名も含めて記録、
+FOR INPUT の場合はファイル名を検索して読み込む。
 
-E: �̏ꍇ�� RAM �f�[�^�t�@�C���̓��o�́BG850 �ŗL���B�t�@�C�������w�肷��B
-FOR OUTPUT �œǍ��AFOR INPUT �ŏ����AFOR APPEND �Œǉ������B
+E: の場合は RAM データファイルの入出力。G850 で有効。ファイル名を指定する。
+FOR OUTPUT で読込、FOR INPUT で書込、FOR APPEND で追加書込。
 
-�`���� LPRT �̏ꍇ�̓~�jI/O�̓��o�́B
+形式が LPRT の場合はミニI/Oの入出力。
 
-���łɈ�I�[�v������Ă���ꍇ�ɁA�X�� OPEN ���悤�Ƃ����ꍇ�� �G���[86
-E: ��2�܂ŃI�[�v�����鎖���ł���B
+すでに一つオープンされている場合に、更に OPEN しようとした場合は エラー86
+E: は2つまでオープンする事ができる。

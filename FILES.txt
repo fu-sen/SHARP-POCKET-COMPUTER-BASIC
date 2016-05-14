@@ -1,20 +1,19 @@
 FILES
 F.
-E200 ƒ}ƒjƒ…ƒAƒ‹
+E200 ãƒžãƒ‹ãƒ¥ã‚¢ãƒ«
 -----------------------------------------------------------
-[‹@”\]
-ƒtƒ@ƒCƒ‹ƒGƒŠƒA‚É“ü‚Á‚Ä‚¢‚éƒtƒ@ƒCƒ‹‚ð•\Ž¦‚·‚é
+[æ©Ÿèƒ½]
+ãƒ•ã‚¡ã‚¤ãƒ«ã‚¨ãƒªã‚¢ã«å…¥ã£ã¦ã„ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã‚’è¡¨ç¤ºã™ã‚‹
 
-[‘Ž®]
+[æ›¸å¼]
 FILES
 
-[ŽQÆ]
-LFILESASAVEALOAD
+[å‚ç…§]
+LFILESã€SAVEã€LOAD
 
-[à–¾]
-æ“ª‚Ìƒtƒ@ƒCƒ‹‚©‚ç•\Ž¦‚³‚êAÅ‘å‚Sƒtƒ@ƒCƒ‹‚Ü‚Å•\Ž¦B
-¨ ƒ}[ƒN‚ª•\Ž¦‚³‚êAªƒL[E«ƒL[‚Å‘€ì‚µA
-SHIFT + LOADEM ‚ÅƒvƒƒOƒ‰ƒ€‚ð“Ç‚Ýo‚·Ž–‚ª‚Å‚«‚éB
-iTEXT ƒ‚[ƒhó‘Ô‚ÌƒvƒƒOƒ‰ƒ€‚ª“Ç‚Ýo‚µ•s‰Â”\j
-CLS ƒL[ABREAKEON ƒL[“™‚Å”²‚¯o‚·Ž–‚ª‰Â”\B
-
+[èª¬æ˜Ž]
+å…ˆé ­ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰è¡¨ç¤ºã•ã‚Œã€æœ€å¤§ï¼”ãƒ•ã‚¡ã‚¤ãƒ«ã¾ã§è¡¨ç¤ºã€‚
+â†’ ãƒžãƒ¼ã‚¯ãŒè¡¨ç¤ºã•ã‚Œã€â†‘ã‚­ãƒ¼ãƒ»â†“ã‚­ãƒ¼ã§æ“ä½œã—ã€
+SHIFT + LOADãƒ»M ã§ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’èª­ã¿å‡ºã™äº‹ãŒã§ãã‚‹ã€‚
+ï¼ˆTEXT ãƒ¢ãƒ¼ãƒ‰çŠ¶æ…‹ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ ãŒèª­ã¿å‡ºã—ä¸å¯èƒ½ï¼‰
+CLS ã‚­ãƒ¼ã€BREAKãƒ»ON ã‚­ãƒ¼ç­‰ã§æŠœã‘å‡ºã™äº‹ãŒå¯èƒ½ã€‚

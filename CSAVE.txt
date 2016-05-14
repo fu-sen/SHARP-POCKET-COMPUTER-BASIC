@@ -1,17 +1,16 @@
 CSAVE
 CS.
-E200 ƒvƒƒOƒ‰ƒ€ ƒ}ƒjƒ…ƒAƒ‹
+E200 ãƒ—ãƒ­ã‚°ãƒ©ãƒ  ãƒžãƒ‹ãƒ¥ã‚¢ãƒ«
 -----------------------------------------------------------
-[‹@”\]
-ƒvƒƒOƒ‰ƒ€‚ðƒe[ƒv‚É‹L˜^‚·‚é
+[æ©Ÿèƒ½]
+ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’ãƒ†ãƒ¼ãƒ—ã«è¨˜éŒ²ã™ã‚‹
 
-[‘Ž®]
-CSAVE["ƒtƒ@ƒCƒ‹–¼"][,"ƒpƒXƒ[ƒh"]
+[æ›¸å¼]
+CSAVE["ãƒ•ã‚¡ã‚¤ãƒ«å"][,"ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰"]
 
-[ŽQÆ]
-PASSACLOADACLOAD?APRINT#
+[å‚ç…§]
+PASSã€CLOADã€CLOAD?ã€PRINT#
 
-[à–¾]
-ƒpƒXƒ[ƒh‚ð•t‚¯‚Ä•Û‘¶‚³‚ê‚½ƒvƒƒOƒ‰ƒ€‚ð“Ç‚Ýo‚·ê‡‚Í PASS ‚ÅƒpƒXƒ[ƒh‚ðŽw’è‚·‚éB
-PC-G850VEPC-G850VS ‚Å‚Íƒ|ƒPƒRƒ“ŠÔ‚Å“]‘—‚·‚é BSAVE ‚É‘ã‚í‚Á‚Ä‚¢‚éB
-
+[èª¬æ˜Ž]
+ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’ä»˜ã‘ã¦ä¿å­˜ã•ã‚ŒãŸãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’èª­ã¿å‡ºã™å ´åˆã¯ PASS ã§ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’æŒ‡å®šã™ã‚‹ã€‚
+PC-G850Vãƒ»PC-G850VS ã§ã¯ãƒã‚±ã‚³ãƒ³é–“ã§è»¢é€ã™ã‚‹ BSAVE ã«ä»£ã‚ã£ã¦ã„ã‚‹ã€‚

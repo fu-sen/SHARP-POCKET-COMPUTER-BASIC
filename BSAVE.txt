@@ -1,17 +1,17 @@
 BSAVE
 BS.
-G850V ƒvƒƒOƒ‰ƒ€ ƒ}ƒjƒ…ƒAƒ‹
+G850V ãƒ—ãƒ­ã‚°ãƒ©ãƒ  ãƒžãƒ‹ãƒ¥ã‚¢ãƒ«
 -----------------------------------------------------------
-[‹@”\]
-•Ê‚Ìƒ|ƒPƒRƒ“‚Ö BASIC ƒvƒƒOƒ‰ƒ€‚ð•Û‘¶‚·‚é
+[æ©Ÿèƒ½]
+åˆ¥ã®ãƒã‚±ã‚³ãƒ³ã¸ BASIC ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’ä¿å­˜ã™ã‚‹
 
-[‘Ž®]
+[æ›¸å¼]
 BSAVE
 
-[ŽQÆ]
-PASSABLOADABLOAD ?
+[å‚ç…§]
+PASSã€BLOADã€BLOAD ?
 
-[à–¾]
-PC-G850 ƒVƒŠ[ƒYŠÔ‚Ås‚¦‚é‚ªA
-•Ê‚Ìƒ|ƒPƒRƒ“‚ª PC-G850EPC-G850S ‚Ìê‡‚Í‘ã‚í‚è‚É CSAVE ‚ð—p‚¢‚éB 
-ƒpƒXƒ[ƒhÝ’èŽž‚Í–³Ž‹‚³‚ê‚éB
+[èª¬æ˜Ž]
+PC-G850 ã‚·ãƒªãƒ¼ã‚ºé–“ã§è¡Œãˆã‚‹ãŒã€
+åˆ¥ã®ãƒã‚±ã‚³ãƒ³ãŒ PC-G850ãƒ»PC-G850S ã®å ´åˆã¯ä»£ã‚ã‚Šã« CSAVE ã‚’ç”¨ã„ã‚‹ã€‚ 
+ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰è¨­å®šæ™‚ã¯ç„¡è¦–ã•ã‚Œã‚‹ã€‚

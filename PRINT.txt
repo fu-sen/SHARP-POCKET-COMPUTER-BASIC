@@ -1,23 +1,23 @@
 PRINT
 P.
-E200 �v���O���� �}�j���A��
+E200 プログラム マニュアル
 -----------------------------------------------------------
-[�@�\]
-��ʂɕ\������
+[機能]
+画面に表示する
 
-[����]
-PRINT [�� �܂��� ������][, �܂��� ;] [...] [;]
+[書式]
+PRINT [式 または 文字列][, または ;] [...] [;]
 PRINT=LPRINT
 PRITN=PRINT
 
-[�Q��]
-LOCATE�ALPRINT�AUSING�AWAIT
+[参照]
+LOCATE、LPRINT、USING、WAIT
 
-[����]
-���ڂ���̏ꍇ�A���͉E�l�߁A������͍��l�߂ň�
-, ��؂�œ�ȏ�̓��e����ꂽ�ꍇ�A12����؂�ň�
-; ��؂�̏ꍇ�͍��[����A�����Ĉ�
-������ ; ������ꍇ�͈󎚌�̉��s���s��Ȃ��B����ɂ�莟�� PRINT �ő����ĕ\���ł���
-PRINT �݂̂̏ꍇ�͉��s���s��
+[説明]
+項目が一つの場合、式は右詰め、文字列は左詰めで印字
+, 区切りで二つ以上の内容を入れた場合、12桁区切りで印字
+; 区切りの場合は左端から連続して印字
+末尾に ; がある場合は印字後の改行を行わない。これにより次の PRINT で続けて表示できる
+PRINT のみの場合は改行を行う
 
-PRINT=LPRINT �Ƃ���ƁAPRINT �̓��e���󎚂����B������ PRINT=PRINT
+PRINT=LPRINT とすると、PRINT の内容が印字される。解除は PRINT=PRINT

@@ -1,17 +1,17 @@
 GCURSOR
 GC.
-G850 ƒvƒƒOƒ‰ƒ€ ƒ}ƒjƒ…ƒAƒ‹
+G850 ãƒ—ãƒ­ã‚°ãƒ©ãƒ  ãƒžãƒ‹ãƒ¥ã‚¢ãƒ«
 -----------------------------------------------------------
-[‹@”\]
-ƒOƒ‰ƒtƒBƒbƒN•\Ž¦‚ÌŠJŽnˆÊ’u‚ðŽw’è‚·‚é
+[æ©Ÿèƒ½]
+ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯è¡¨ç¤ºã®é–‹å§‹ä½ç½®ã‚’æŒ‡å®šã™ã‚‹
 
-[‘Ž®]
-GCURSOR (XÀ•W,YÀ•W)
+[æ›¸å¼]
+GCURSOR (Xåº§æ¨™,Yåº§æ¨™)
 
-[ŽQÆ]
-GPRINTAGLOCATE
+[å‚ç…§]
+GPRINTã€GLOCATE
 
-[à–¾]
-GPRINT ‚Ì•\Ž¦ˆÊ’u¶‰º‚Ì’l‚ðŽw’è‚·‚éB
-XÀ•W‚Í0`143AYÀ•W‚Í0`47B
-RUN ŽÀsŽž‚â“dŒ¹‚ð“ü‚ê‚½ŽžASHIFT+CLS[CA]‚ð‰Ÿ‚µ‚½Žž‚È‚Ç‚Í (0,7) ‚É‚È‚éB
+[èª¬æ˜Ž]
+GPRINT ã®è¡¨ç¤ºä½ç½®å·¦ä¸‹ã®å€¤ã‚’æŒ‡å®šã™ã‚‹ã€‚
+Xåº§æ¨™ã¯0ï½ž143ã€Yåº§æ¨™ã¯0ï½ž47ã€‚
+RUN å®Ÿè¡Œæ™‚ã‚„é›»æºã‚’å…¥ã‚ŒãŸæ™‚ã€SHIFT+CLS[CA]ã‚’æŠ¼ã—ãŸæ™‚ãªã©ã¯ (0,7) ã«ãªã‚‹ã€‚

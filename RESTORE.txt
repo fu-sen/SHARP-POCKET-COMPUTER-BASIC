@@ -1,12 +1,12 @@
 RESTORE
 RES.
-E200 �v���O����
+E200 プログラム
 -----------------------------------------------------------
-[�@�\]
-READ �œǂݍ��� DATA �̍s���w�肷��
+[機能]
+READ で読み込む DATA の行を指定する
 
-[����]
-RESTORE �s�ԍ�
+[書式]
+RESTORE 行番号
 
-[�Q��]
-READ�ADATA
+[参照]
+READ、DATA

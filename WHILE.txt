@@ -1,20 +1,20 @@
-WHILE ` WEND
-WH. ` WE.
-? ƒvƒƒOƒ‰ƒ€
+WHILE ï½ž WEND
+WH. ï½ž WE.
+? ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
 -----------------------------------------------------------
-[‹@”\]
-ðŒ‚ª–ž‚½‚³‚ê‚é‚Ü‚ÅŒJ‚è•Ô‚µŽÀs‚·‚é
+[æ©Ÿèƒ½]
+æ¡ä»¶ãŒæº€ãŸã•ã‚Œã‚‹ã¾ã§ç¹°ã‚Šè¿”ã—å®Ÿè¡Œã™ã‚‹
 
-[‘Ž®]
-WHILE ðŒŽ®
- –½—ß
- [–½—ß]
+[æ›¸å¼]
+WHILE æ¡ä»¶å¼
+ å‘½ä»¤
+ [å‘½ä»¤]
  [...]
 WEND
 
-[ŽQÆ]
-FOR`NEXTAREPEAT`UNTIL
+[å‚ç…§]
+FORï½žNEXTã€REPEATï½žUNTIL
 
-[à–¾]
-WHILE ‚ÌðŒŽ®‚ªˆê’v‚µ‚Ä‚¢‚éŠÔAWEND ‚Ü‚Å‚ðŽÀs‚·‚éB
-ˆê’v‚µ‚È‚­‚È‚Á‚½ê‡‚Í WEND ˆÈ~‚ðŽÀs‚·‚éB
+[èª¬æ˜Ž]
+WHILE ã®æ¡ä»¶å¼ãŒä¸€è‡´ã—ã¦ã„ã‚‹é–“ã€WEND ã¾ã§ã‚’å®Ÿè¡Œã™ã‚‹ã€‚
+ä¸€è‡´ã—ãªããªã£ãŸå ´åˆã¯ WEND ä»¥é™ã‚’å®Ÿè¡Œã™ã‚‹ã€‚
