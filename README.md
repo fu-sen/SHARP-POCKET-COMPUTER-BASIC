@@ -10,4 +10,4 @@ PC-E200 の命令は PC-G シリーズでもほぼ使用可能です。<br />
 （2016年5月14日より文字コードを変更しました）<br />
 Windows の場合は メモ帳 で参照可能です。
 
-* POKE COM http://poke-com.jimdo.com/
+* POKE COM https://poke-com.jimdo.com/
