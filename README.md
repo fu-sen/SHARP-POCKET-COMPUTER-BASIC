@@ -9,4 +9,4 @@ PC-E200 の命令は PC-G シリーズでもほぼ使用可能です。\
 .txt ファイルは UTF-8・CR+LF にしてあります。\
 Windows の場合は メモ帳 で参照可能です。
 
-POKE COM https://poke-com.jimdo.com/
+POKE COM https://poke-com.jimdofree.com/
