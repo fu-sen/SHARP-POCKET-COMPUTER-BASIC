@@ -8,7 +8,7 @@ E200 プログラム マニュアル
 [書式]
 PRINT [式 または 文字列][, または ;] [...] [;]
 PRINT=LPRINT
-PRITN=PRINT
+PRINT=PRINT
 
 [参照]
 LOCATE、LPRINT、USING、WAIT
